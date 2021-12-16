@@ -1,0 +1,17 @@
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\bin\Debug\net6.0\ProvaPratica.Infrastructure.deps.json
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\bin\Debug\net6.0\ProvaPratica.Infrastructure.dll
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\bin\Debug\net6.0\ref\ProvaPratica.Infrastructure.dll
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\bin\Debug\net6.0\ProvaPratica.Infrastructure.pdb
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\obj\Debug\net6.0\ProvaPratica.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\obj\Debug\net6.0\ProvaPratica.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\obj\Debug\net6.0\ProvaPratica.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\obj\Debug\net6.0\ProvaPratica.Infrastructure.AssemblyInfo.cs
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\obj\Debug\net6.0\ProvaPratica.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\obj\Debug\net6.0\ProvaPratica.Infrastructure.dll
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\obj\Debug\net6.0\ref\ProvaPratica.Infrastructure.dll
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\obj\Debug\net6.0\ProvaPratica.Infrastructure.pdb
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\bin\Debug\net6.0\ProvaPratica.Infrastructure.runtimeconfig.json
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\bin\Debug\net6.0\ProvaPratica.Domain.dll
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\bin\Debug\net6.0\ProvaPratica.Domain.pdb
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\obj\Debug\net6.0\ProvaPratica.Infrastructure.csproj.CopyComplete
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Infrastructure\obj\Debug\net6.0\ProvaPratica.Infrastructure.genruntimeconfig.cache

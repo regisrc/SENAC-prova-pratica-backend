@@ -1,0 +1,12 @@
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\bin\Debug\net6.0\ProvaPratica.Domain.deps.json
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\bin\Debug\net6.0\ProvaPratica.Domain.dll
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\bin\Debug\net6.0\ref\ProvaPratica.Domain.dll
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\bin\Debug\net6.0\ProvaPratica.Domain.pdb
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\obj\Debug\net6.0\ProvaPratica.Domain.csproj.AssemblyReference.cache
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\obj\Debug\net6.0\ProvaPratica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\obj\Debug\net6.0\ProvaPratica.Domain.AssemblyInfoInputs.cache
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\obj\Debug\net6.0\ProvaPratica.Domain.AssemblyInfo.cs
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\obj\Debug\net6.0\ProvaPratica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\obj\Debug\net6.0\ProvaPratica.Domain.dll
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\obj\Debug\net6.0\ref\ProvaPratica.Domain.dll
+C:\Users\Filipe Eduardo Regis\source\repos\ProvaPratica.API\ProvaPratica.Domain\obj\Debug\net6.0\ProvaPratica.Domain.pdb

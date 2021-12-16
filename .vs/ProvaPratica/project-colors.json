@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b2d8a50-b943-4e8a-a628-72694bb8d01e": {
+      "ProjectGuid": "2b2d8a50-b943-4e8a-a628-72694bb8d01e",
+      "DisplayName": "ProvaPratica.API",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "436dfcbd-bf18-4fb0-859e-11a59115cc4d": {
+      "ProjectGuid": "436dfcbd-bf18-4fb0-859e-11a59115cc4d",
+      "DisplayName": "ProvaPratica.Domain",
+      "ColorIndex": 1
+    },
+    "8b0b06fe-1ff6-4050-a613-19e61e66dbef": {
+      "ProjectGuid": "8b0b06fe-1ff6-4050-a613-19e61e66dbef",
+      "DisplayName": "ProvaPratica.Application",
+      "ColorIndex": 2
+    },
+    "153c0087-0d2c-459c-9dbf-67bbd46d0cb3": {
+      "ProjectGuid": "153c0087-0d2c-459c-9dbf-67bbd46d0cb3",
+      "DisplayName": "ProvaPratica.Infrastructure",
+      "ColorIndex": 3
+    },
+    "330c6837-fa35-46d6-aa2b-6b3c8d4a7e17": {
+      "ProjectGuid": "330c6837-fa35-46d6-aa2b-6b3c8d4a7e17",
+      "DisplayName": "ProvaPratica.Tests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
